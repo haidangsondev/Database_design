@@ -14,8 +14,8 @@ Hệ thống sẽ lưu trữ thông tin chi tiết về sản phẩm, người d
   
 - Mô tả  hệ thống nhằm xác định các chức năng và các yêu cầu  đã phân tích từ các sàng thương mại điện tử lớn để xác định rõ các quy trình tiếp theo. Mô tả là bước thiết yếu để hiểu rõ hệ thống cần và phải có những gì. 
   ![](./img/image2.png)
-  ![](../database_design/img/image4.png)
-  ![](../database_design/img/image5.png)
+  ![](./img/image3.png)
+  ![](./img/image4.png)
   Và các usecase khác....
   ##### => Các chức năng sau khi phân tích và mô tả hệ thống: 
 - **Admin**
@@ -44,14 +44,18 @@ Hệ thống sẽ lưu trữ thông tin chi tiết về sản phẩm, người d
   #### 2.2 Đặc tả usecase 
 - Đặc tả usecase sẽ mô tả một chức năng cụ thể đã phân tích ở hệ thống cung cấp cho người dùng và các bước thực hiện của từng chức năng đó.
   ###### ***Usecase Đăng ký***
-![](../database_design/img/image6.png)
-![](../database_design/img/image7.png)
+  ![](./img/image5.png)
   ###### ***Usecase Đặt hàng***
-![](../database_design/img/image8.png)
-![](../database_design/img/image9.png)
-  ###### ***Usecase Tìm kiếm sản phẩm***
-![](../database_design/img/image10.png)
-![](../database_design/img/image11.png)
+  ![](./img/image6.png)
 #### 2.3 Thiết kế thành phần dữ liệu 
   ###### ***Mô hình dữ liệu ở mức quan niệm (CDM)***
-![](../database_design/img/image12.png)
+![](./img/image7.png)
+  ###### ***Mô hình dữ liệu ở mức luận lý (LDM)***
+![](./img/image8.png)
+###### ***Mô hình dữ liệu ở mức vật lý (PDM)***
+![](./img/image9.png)
+#### 2.4 Thiết kế cơ sở dữ liệu 
+![](./img/image10.png)
+![](./img/image11.png)
+![](./img/image12.png)
+![](./img/image13.png)
