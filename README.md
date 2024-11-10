@@ -13,7 +13,7 @@ Hệ thống sẽ lưu trữ thông tin chi tiết về sản phẩm, người d
   ![](./img/image1.png)
   
 - Mô tả  hệ thống nhằm xác định các chức năng và các yêu cầu  đã phân tích từ các sàng thương mại điện tử lớn để xác định rõ các quy trình tiếp theo. Mô tả là bước thiết yếu để hiểu rõ hệ thống cần và phải có những gì. 
-  ![](../database_design/img/image3.png)
+  ![](./img/image2.png)
   ![](../database_design/img/image4.png)
   ![](../database_design/img/image5.png)
   Và các usecase khác....
