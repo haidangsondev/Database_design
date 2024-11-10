@@ -10,7 +10,7 @@ Hệ thống sẽ lưu trữ thông tin chi tiết về sản phẩm, người d
 - Phân tích hệ thống của các trang thương mại điện tử lớn như Tiki và Shopee bao gồm nhiều bước để xác định và thiết kế các chức năng, quy trình kinh doanh và yêu cầu người dùng, phân tích cơ sở dữ liệu,.. nhằm đáp ứng nhu cầu phức tạp của khách hàng và nhà cung cấp. 
   ![](./img/image.png)
   
-  ![](../database_design/img/image1.png)
+  ![](./img/image1.png)
   
 - Mô tả  hệ thống nhằm xác định các chức năng và các yêu cầu  đã phân tích từ các sàng thương mại điện tử lớn để xác định rõ các quy trình tiếp theo. Mô tả là bước thiết yếu để hiểu rõ hệ thống cần và phải có những gì. 
   ![](../database_design/img/image3.png)
