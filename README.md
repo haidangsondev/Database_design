@@ -8,7 +8,7 @@ Hệ thống sẽ lưu trữ thông tin chi tiết về sản phẩm, người d
 ### 2. Các giai đoạn thiết kế 
 #### 2.1 Phân tích và mô tả hệ thống 
 - Phân tích hệ thống của các trang thương mại điện tử lớn như Tiki và Shopee bao gồm nhiều bước để xác định và thiết kế các chức năng, quy trình kinh doanh và yêu cầu người dùng, phân tích cơ sở dữ liệu,.. nhằm đáp ứng nhu cầu phức tạp của khách hàng và nhà cung cấp. 
-  ![](../database_design/img/image.png)
+  ![](./img/image.png)
   
   ![](../database_design/img/image1.png)
   
