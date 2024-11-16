@@ -16,7 +16,6 @@ Hệ thống sẽ lưu trữ thông tin chi tiết về sản phẩm, người d
   ![](./img/image2.png)
   ![](./img/image3.png)
   ![](./img/image4.png)
-  Và các usecase khác....
   ##### => Các chức năng sau khi phân tích và mô tả hệ thống: 
 - **Admin**
     - Quản lí kho
@@ -59,3 +58,22 @@ Hệ thống sẽ lưu trữ thông tin chi tiết về sản phẩm, người d
 ![](./img/image11.png)
 ![](./img/image12.png)
 ![](./img/image13.png)
+
+### 3. Công nghệ sử dụng
+- Hệ quản trị cơ sở dữ liệu: MySQL 
+- Công cụ hộ trợ thiết kế: StarUML, PowerDesigner. 
+### 4. Hướng dẫn cài đặt 
+  1. Clone repository:
+   ```bash
+    git clone https://github.com/haidangsondev/Database_design
+   ```
+  2. Cài đặt các phần mềm cần thiết: 
+    [StarUML](https://staruml.io/download/)
+    [PowerDesigner](https://www.powerdesigner.biz/)
+  3. Import các gói cần thiết 
+   - Mở StarUML và import file ***US_Ecommerce***
+   - Mở PowerDesigner và import file ***CDM.cdm, LDM.ldm và PDM.pdm***
+### 5. Kết luận
+Việc phân tích và thiết kế cơ sở dữ liệu cho website bán hàng là bước quan trọng, đóng vai trò nền tảng để đảm bảo hệ thống hoạt động ổn định, hiệu quả và đáp ứng các yêu cầu nghiệp vụ. Với cấu trúc rõ ràng và tối ưu, cơ sở dữ liệu này không chỉ hỗ trợ quản lý sản phẩm, khách hàng, đơn hàng mà còn cung cấp khả năng mở rộng dễ dàng khi cần tích hợp thêm các tính năng mới như quản lý khuyến mãi, phân tích dữ liệu kinh doanh, hoặc tích hợp với các hệ thống bên ngoài.
+
+Thiết kế này đã được thực hiện với nguyên tắc chuẩn hóa dữ liệu, đảm bảo tính toàn vẹn và nhất quán, đồng thời sẵn sàng triển khai trên các nền tảng cơ sở dữ liệu phổ biến.
