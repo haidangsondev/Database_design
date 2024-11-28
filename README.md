@@ -70,9 +70,11 @@ Hệ thống sẽ lưu trữ thông tin chi tiết về sản phẩm, người d
   2. Cài đặt các phần mềm cần thiết: 
     [StarUML](https://staruml.io/download/)
     [PowerDesigner](https://www.powerdesigner.biz/)
+    [MySQL](https://www.mysql.com/downloads/)
   3. Import các gói cần thiết 
    - Mở StarUML và import file ***US_Ecommerce***
    - Mở PowerDesigner và import file ***CDM.cdm, LDM.ldm và PDM.pdm***
+   - Mở phần mềm MySQL và import file ***Ecommerce_onlie.sql*** 
 ### 5. Kết luận
 Việc phân tích và thiết kế cơ sở dữ liệu cho website bán hàng là bước quan trọng, đóng vai trò nền tảng để đảm bảo hệ thống hoạt động ổn định, hiệu quả và đáp ứng các yêu cầu nghiệp vụ. Với cấu trúc rõ ràng và tối ưu, cơ sở dữ liệu này không chỉ hỗ trợ quản lý sản phẩm, khách hàng, đơn hàng mà còn cung cấp khả năng mở rộng dễ dàng khi cần tích hợp thêm các tính năng mới như quản lý khuyến mãi, phân tích dữ liệu kinh doanh, hoặc tích hợp với các hệ thống bên ngoài.
 
